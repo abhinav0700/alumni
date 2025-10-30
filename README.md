@@ -52,7 +52,7 @@ Students can reach out to matched alumni directly through the in-app messaging s
 
 - Collaboration on projects or internships
 
-💼 Job Posting and Opportunities
+### 💼 Job Posting and Opportunities
 
 Alumni can:
 
